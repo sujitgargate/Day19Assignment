@@ -7,7 +7,7 @@ public class HelloMessage{
 	}
 }
 
-//End of Hello Message
+//End of Hello Message//
 
 //This is Employee Daily Wage code
 
