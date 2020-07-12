@@ -66,7 +66,7 @@ public class EmpPartFullTime{
 //This is end of Part_Full time  //
 
 
-//This is end of FIle EmpPresentAbsent //
+//This is EmpPresentAbsent //
 
 public class EmpPresentAbsent{
 
@@ -83,3 +83,5 @@ public class EmpPresentAbsent{
 }
 
 //This is end of FIle EmpPresentAbsent //
+
+
